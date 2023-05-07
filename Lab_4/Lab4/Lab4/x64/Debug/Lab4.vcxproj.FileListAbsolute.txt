@@ -1,0 +1,4 @@
+C:\Users\Admin\Desktop\Таємниці Ханджи\Програмування_2\Lab_4\Lab4\Lab4\x64\Debug\Lab4.vcxproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Таємниці Ханджи\Програмування_2\Lab_4\Lab4\Lab4\x64\Debug\Lab4.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Таємниці Ханджи\Програмування_2\Lab_4\Lab4\Lab4\x64\Debug\Lab4.MyForm.resources
+C:\Users\Admin\Desktop\Таємниці Ханджи\Програмування_2\Lab_4\Lab4\Lab4\x64\Debug\Lab4.vcxproj.GenerateResource.cache
